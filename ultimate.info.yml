@@ -1,0 +1,5 @@
+name: ultimate
+description: 'Ultimate module'
+type: module
+core_version_requirement: ^8 || ^9
+package: ultimate

@@ -1,0 +1,7 @@
+ultimate:
+  path: '/table'
+  defaults:
+    _form: 'Drupal\ultimate\Form\UltimateForm'
+    _title: 'Ultimate table'
+  requirements:
+    _permission: 'access content'
